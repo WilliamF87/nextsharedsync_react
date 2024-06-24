@@ -1,0 +1,11 @@
+/* PatternBackground.css */
+
+.patternBackground {
+    background-image: url('/img/low_poly_banner_design_1711.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el fondo */
+    background-repeat: no-repeat; /* Evita la repetición de la imagen */
+    background-attachment: fixed;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
